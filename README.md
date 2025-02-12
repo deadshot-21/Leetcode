@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0931-maximum-frequency-stack](https://github.com/deadshot-21/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [2448-count-number-of-bad-pairs](https://github.com/deadshot-21/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deadshot-21/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/deadshot-21/Leetcode/tree/master/0071-simplify-path) |
 | [0883-car-fleet](https://github.com/deadshot-21/Leetcode/tree/master/0883-car-fleet) |
+| [0931-maximum-frequency-stack](https://github.com/deadshot-21/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/deadshot-21/Leetcode/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/deadshot-21/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/deadshot-21/Leetcode/tree/master/3447-clear-digits) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0931-maximum-frequency-stack](https://github.com/deadshot-21/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/deadshot-21/Leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/deadshot-21/Leetcode/tree/master/0937-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/deadshot-21/Leetcode/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
