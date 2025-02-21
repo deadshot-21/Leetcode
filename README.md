@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/deadshot-21/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1160-letter-tile-possibilities](https://github.com/deadshot-21/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deadshot-21/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/deadshot-21/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/deadshot-21/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deadshot-21/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/deadshot-21/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/deadshot-21/Leetcode/tree/master/0937-online-stock-span) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deadshot-21/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deadshot-21/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
@@ -115,4 +117,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/deadshot-21/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deadshot-21/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deadshot-21/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deadshot-21/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deadshot-21/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
