@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/deadshot-21/Leetcode/tree/master/0069-sqrtx) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deadshot-21/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/deadshot-21/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/deadshot-21/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/deadshot-21/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/deadshot-21/Leetcode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/deadshot-21/Leetcode/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
