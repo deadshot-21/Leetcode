@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deadshot-21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/deadshot-21/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/deadshot-21/Leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/deadshot-21/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2308-divide-array-into-equal-pairs](https://github.com/deadshot-21/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/deadshot-21/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/deadshot-21/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0071-simplify-path](https://github.com/deadshot-21/Leetcode/tree/master/0071-simplify-path) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/deadshot-21/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/deadshot-21/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/deadshot-21/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/deadshot-21/Leetcode/tree/master/0883-car-fleet) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deadshot-21/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deadshot-21/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deadshot-21/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/deadshot-21/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/deadshot-21/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -203,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/deadshot-21/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/deadshot-21/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/deadshot-21/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
