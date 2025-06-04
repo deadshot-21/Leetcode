@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deadshot-21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/deadshot-21/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/deadshot-21/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0071-simplify-path](https://github.com/deadshot-21/Leetcode/tree/master/0071-simplify-path) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/deadshot-21/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/deadshot-21/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deadshot-21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/deadshot-21/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/deadshot-21/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/deadshot-21/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
