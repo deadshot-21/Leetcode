@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deadshot-21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/deadshot-21/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -338,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/deadshot-21/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/deadshot-21/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/deadshot-21/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
