@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/deadshot-21/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deadshot-21/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/deadshot-21/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/deadshot-21/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/deadshot-21/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/deadshot-21/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/deadshot-21/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/deadshot-21/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/deadshot-21/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/deadshot-21/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deadshot-21/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/deadshot-21/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/deadshot-21/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/deadshot-21/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/deadshot-21/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/deadshot-21/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Design
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/deadshot-21/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/deadshot-21/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/deadshot-21/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/deadshot-21/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Tree
 |  |
 | ------- |
