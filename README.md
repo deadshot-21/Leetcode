@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/deadshot-21/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deadshot-21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/deadshot-21/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/deadshot-21/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/deadshot-21/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/deadshot-21/Leetcode/tree/master/0140-word-break-ii) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/deadshot-21/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/deadshot-21/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/deadshot-21/Leetcode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/deadshot-21/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/deadshot-21/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/deadshot-21/Leetcode/tree/master/0212-word-search-ii) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deadshot-21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/deadshot-21/Leetcode/tree/master/0076-minimum-window-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deadshot-21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deadshot-21/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deadshot-21/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
