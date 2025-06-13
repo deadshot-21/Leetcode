@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/deadshot-21/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/deadshot-21/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1036-rotting-oranges](https://github.com/deadshot-21/Leetcode/tree/master/1036-rotting-oranges) |
+| [1239-largest-1-bordered-square](https://github.com/deadshot-21/Leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/deadshot-21/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deadshot-21/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/deadshot-21/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/deadshot-21/Leetcode/tree/master/0198-house-robber) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/deadshot-21/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1239-largest-1-bordered-square](https://github.com/deadshot-21/Leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/deadshot-21/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/deadshot-21/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/deadshot-21/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/deadshot-21/Leetcode/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/deadshot-21/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/deadshot-21/Leetcode/tree/master/1036-rotting-oranges) |
+| [1239-largest-1-bordered-square](https://github.com/deadshot-21/Leetcode/tree/master/1239-largest-1-bordered-square) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deadshot-21/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/deadshot-21/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/deadshot-21/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
