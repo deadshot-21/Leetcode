@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deadshot-21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/deadshot-21/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/deadshot-21/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/deadshot-21/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/deadshot-21/Leetcode/tree/master/0069-sqrtx) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deadshot-21/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deadshot-21/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/deadshot-21/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/deadshot-21/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/deadshot-21/Leetcode/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/deadshot-21/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/deadshot-21/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deadshot-21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/deadshot-21/Leetcode/tree/master/0140-word-break-ii) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/deadshot-21/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/deadshot-21/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
