@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/deadshot-21/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/deadshot-21/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/deadshot-21/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/deadshot-21/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/deadshot-21/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/deadshot-21/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/deadshot-21/Leetcode/tree/master/0212-word-search-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/deadshot-21/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/deadshot-21/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/deadshot-21/Leetcode/tree/master/0045-jump-game-ii) |
+| [0072-edit-distance](https://github.com/deadshot-21/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deadshot-21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/deadshot-21/Leetcode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/deadshot-21/Leetcode/tree/master/0198-house-robber) |
