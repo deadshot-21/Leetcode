@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/deadshot-21/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/deadshot-21/Leetcode/tree/master/0140-word-break-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deadshot-21/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/deadshot-21/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/deadshot-21/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/deadshot-21/Leetcode/tree/master/0212-word-search-ii) |
 | [0412-fizz-buzz](https://github.com/deadshot-21/Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/deadshot-21/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/deadshot-21/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deadshot-21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/deadshot-21/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/deadshot-21/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deadshot-21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deadshot-21/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deadshot-21/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
