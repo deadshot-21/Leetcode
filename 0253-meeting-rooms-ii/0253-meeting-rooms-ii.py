@@ -1,5 +1,9 @@
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
+        
+        if not intervals:
+            return 0
+        
         start = sorted([i[0] for i in intervals])
         end = sorted([i[1] for i in intervals])
         count, res = 0, 0
