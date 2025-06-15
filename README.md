@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/deadshot-21/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/deadshot-21/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/deadshot-21/Leetcode/tree/master/0212-word-search-ii) |
+| [0253-meeting-rooms-ii](https://github.com/deadshot-21/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deadshot-21/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0733-flood-fill](https://github.com/deadshot-21/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/deadshot-21/Leetcode/tree/master/0792-binary-search) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/deadshot-21/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/deadshot-21/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deadshot-21/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0253-meeting-rooms-ii](https://github.com/deadshot-21/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/deadshot-21/Leetcode/tree/master/0883-car-fleet) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deadshot-21/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/deadshot-21/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0253-meeting-rooms-ii](https://github.com/deadshot-21/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deadshot-21/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/deadshot-21/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/deadshot-21/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deadshot-21/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/deadshot-21/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deadshot-21/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/deadshot-21/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/deadshot-21/Leetcode/tree/master/0135-candy) |
+| [0253-meeting-rooms-ii](https://github.com/deadshot-21/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/deadshot-21/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/deadshot-21/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/deadshot-21/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/deadshot-21/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0253-meeting-rooms-ii](https://github.com/deadshot-21/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/deadshot-21/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/deadshot-21/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
