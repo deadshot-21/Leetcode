@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/deadshot-21/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/deadshot-21/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/deadshot-21/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/deadshot-21/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/deadshot-21/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/deadshot-21/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/deadshot-21/Leetcode/tree/master/0072-edit-distance) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deadshot-21/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/deadshot-21/Leetcode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/deadshot-21/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/deadshot-21/Leetcode/tree/master/0212-word-search-ii) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deadshot-21/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/deadshot-21/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deadshot-21/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/deadshot-21/Leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/deadshot-21/Leetcode/tree/master/0062-unique-paths) |
