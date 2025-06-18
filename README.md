@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/deadshot-21/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/deadshot-21/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/deadshot-21/Leetcode/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/deadshot-21/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/deadshot-21/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deadshot-21/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/deadshot-21/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/deadshot-21/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/deadshot-21/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deadshot-21/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0931-maximum-frequency-stack](https://github.com/deadshot-21/Leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deadshot-21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/deadshot-21/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/deadshot-21/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/deadshot-21/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/deadshot-21/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
@@ -520,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deadshot-21/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/deadshot-21/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
