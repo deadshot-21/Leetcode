@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/deadshot-21/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/deadshot-21/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deadshot-21/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/deadshot-21/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/deadshot-21/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deadshot-21/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/deadshot-21/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deadshot-21/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/deadshot-21/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deadshot-21/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/deadshot-21/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/deadshot-21/Leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/deadshot-21/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/deadshot-21/Leetcode/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/deadshot-21/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/deadshot-21/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/deadshot-21/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/deadshot-21/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/deadshot-21/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/deadshot-21/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/deadshot-21/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/deadshot-21/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/deadshot-21/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/deadshot-21/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
