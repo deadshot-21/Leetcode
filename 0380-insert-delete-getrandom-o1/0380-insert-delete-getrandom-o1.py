@@ -1,9 +1,8 @@
-from random import choice
 class RandomizedSet:
 
     def __init__(self):
-        self.hashmap = {}
         self.list = []
+        self.hashmap = {}
 
     def insert(self, val: int) -> bool:
         if val in self.hashmap:
@@ -23,7 +22,7 @@ class RandomizedSet:
         return True
 
     def getRandom(self) -> int:
-        return choice(self.list)
+        return random.choice(self.list)
 
 
 # Your RandomizedSet object will be instantiated and called as such:
