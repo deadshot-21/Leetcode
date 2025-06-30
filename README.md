@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/deadshot-21/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/deadshot-21/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deadshot-21/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0594-longest-harmonious-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/deadshot-21/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/deadshot-21/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/deadshot-21/Leetcode/tree/master/0883-car-fleet) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/deadshot-21/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deadshot-21/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/deadshot-21/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/deadshot-21/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deadshot-21/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/deadshot-21/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/deadshot-21/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/deadshot-21/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0253-meeting-rooms-ii](https://github.com/deadshot-21/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/deadshot-21/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/deadshot-21/Leetcode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/deadshot-21/Leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/deadshot-21/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deadshot-21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/deadshot-21/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/deadshot-21/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/deadshot-21/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deadshot-21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deadshot-21/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deadshot-21/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
