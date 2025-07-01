@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/deadshot-21/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/deadshot-21/Leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/deadshot-21/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3617-find-the-original-typed-string-i](https://github.com/deadshot-21/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
