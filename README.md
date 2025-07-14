@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/deadshot-21/Leetcode/tree/master/0069-sqrtx) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deadshot-21/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/deadshot-21/Leetcode/tree/master/0412-fizz-buzz) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/deadshot-21/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deadshot-21/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/deadshot-21/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/deadshot-21/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/deadshot-21/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/deadshot-21/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/deadshot-21/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/deadshot-21/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |
 | ------- |
